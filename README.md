@@ -24,3 +24,16 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee chathu004"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee chathu004" /></a><a href="https://ko-fi.com/Ko-fi chathu004"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi chathu004" /></a></p><br><br>
+
+ <br>
+  
+[![](https://activity-graph.herokuapp.com/graph?username=Chathu004&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Chathuri's github stats](https://github-readme-stats.vercel.app/api?username=Chathu004&show_icons=true&theme=tokyonight) | ![Chathuri GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chathu004&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathu004&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Chathu004&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
+
+
+<br>
