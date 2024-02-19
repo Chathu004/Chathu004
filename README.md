@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathu004&label=Profile%20views&color=0e75b6&style=flat" alt="chathu004" /> </p>
 
 
-### About me:
+### About me
 - 🌱 I’m currently learning **SpringBoot, Nodejs, Angular, React, MongoDB**
 
 - 💬 Ask me about **Java, React, Angular, SpringBoot**
